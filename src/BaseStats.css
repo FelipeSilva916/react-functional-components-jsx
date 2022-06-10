@@ -1,6 +1,9 @@
+.stats,
 .base-stats {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .sp-stats {
@@ -9,4 +12,6 @@
   margin: 10px;
   background: #d60340;
   color: white;
+  width: 140px;
+  height: 40;
 }
