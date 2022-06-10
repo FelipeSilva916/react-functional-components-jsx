@@ -6,11 +6,15 @@
 }
 
 .poke-type {
-  background-color: #008000;
+  background-color: #84add7;
   color: white;
+  padding: 5px;
+  border-radius: 15%;
 }
 
 .poke-move {
   background-color: #fff;
-  color: #008000;
+  color: #7b675b;
+  padding: 5px;
+  border-radius: 15%;
 }

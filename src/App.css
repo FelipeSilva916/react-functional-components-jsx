@@ -36,11 +36,8 @@ li {
 }
 
 .background {
-  background: linear-gradient(
-    90deg,
-    hsla(77, 100%, 70%, 1) 0%,
-    hsla(206, 67%, 75%, 1) 100%
-  );
+  background: linear-gradient(90deg, #84add7 0%, #7b675b 100%);
+
   background-repeat: no-repeat;
   background-size: cover;
   width: 100vw;
